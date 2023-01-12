@@ -1,4 +1,4 @@
-#
+config.hosts << "rollcall.canvas-dev.stiegleredtech.org"
 # Copyright (C) 2014 - present Instructure, Inc.
 #
 # This file is part of Rollcall.
